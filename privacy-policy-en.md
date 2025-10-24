@@ -1,3 +1,7 @@
+**Language / 언어**: [🇰🇷 한국어](/) | [🇺🇸 English](#)
+
+---
+
 # DocBox Privacy Policy
 
 **Effective Date**: October 26, 2025

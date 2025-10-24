@@ -1,3 +1,7 @@
+**Language / 언어**: [🇰🇷 한국어](#) | [🇺🇸 English](privacy-policy-en)
+
+---
+
 # DocBox 개인정보 처리방침
 
 **시행일**: 2025년 10월 26일
