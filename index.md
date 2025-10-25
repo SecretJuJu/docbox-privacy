@@ -1,4 +1,4 @@
-**Language / 언어**: [🇰🇷 한국어](#) | [🇺🇸 English](privacy-policy-en)
+**Language / 언어**: 🇰🇷 한국어 | [🇺🇸 English](./privacy-policy-en)
 
 ---
 
